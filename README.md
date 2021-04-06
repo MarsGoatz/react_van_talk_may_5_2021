@@ -2,7 +2,7 @@
 
 ## Presentation
 
-We will kicking off the event with a presentation. Slides are uploaded to the [website](https://awesome-hoover-a04460.netlify.app)
+We will kicking off the event with a presentation. Slides are uploaded to the [website](https://awesome-hoover-a04460.netlify.app).
 
 ## Hands On!
 
