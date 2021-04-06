@@ -1,8 +1,12 @@
 # Introduction To Flutter
 
+## Survey
+
+We will kicking off the event with a survey - https://forms.gle/8FZRdAYsReU9dz1N8
+
 ## Presentation
 
-We will kicking off the event with a presentation. Slides are uploaded to the [website](https://awesome-hoover-a04460.netlify.app).
+Next up is our presentation about what Flutter is. Slides are uploaded to the [website](https://awesome-hoover-a04460.netlify.app).
 
 ## Hands On!
 
