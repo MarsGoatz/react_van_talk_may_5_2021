@@ -12,18 +12,18 @@ Next up is our presentation about what Flutter is. Slides are uploaded to the [w
 - Agenda
 - What is Flutter?
 - Dart
- - Intro
- -  
+  - Intro
+  - Event Driven
 - Flutter
- - Architecture
- - Difference with React Native
+  - Architecture
+  - Difference with React Native
 - Widgets
- - Stateful/Stateless
- - Code example
+  - Stateful/Stateless
+  - Code example
 - Popularity
 - Who is using Flutter
 - Responsiveness example
 - Resources
 - Next Steps
 - Thank you
- - Easter Eggs
+  - Easter Eggs
