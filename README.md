@@ -3,33 +3,27 @@
 
 ## Survey
 
-We will kicking off the event with a survey - https://forms.gle/8FZRdAYsReU9dz1N8
+- We will kicking off the event with a survey - https://forms.gle/uMD7SA2BuFdrSq9aA
+- This survey is optional and for my own curiosity 👍
 
 ## Presentation
 
 Next up is our presentation about what Flutter is. Slides are uploaded to the [website](https://awesome-hoover-a04460.netlify.app).
-
-## Hands On!
-
-### Installation
-
-Lets install Flutter - https://flutter.dev/docs/get-started/install
-we will cap the time limit to 15 minutes!
-
-### Run the app
-
-- We will run the test app
-- Talk about the code structure
-- Test the hot reload
-- Discuss the stateless widget
-- Discuss about the stateful widget
-- Discuss about async programming
-- Maybe isolates
-- if we have time we will
-
-## Thank You
-
-- Back to slides
-- More resources
-- Next steps
-- Q & A
+- Agenda
+- What is Flutter?
+- Dart
+ - Intro
+ -  
+- Flutter
+ - Architecture
+ - Difference with React Native
+- Widgets
+ - Stateful/Stateless
+ - Code example
+- Popularity
+- Who is using Flutter
+- Responsiveness example
+- Resources
+- Next Steps
+- Thank you
+ - Easter Eggs
