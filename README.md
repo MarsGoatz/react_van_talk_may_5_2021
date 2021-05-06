@@ -27,4 +27,4 @@ Next up is our presentation about what Flutter is. Slides are uploaded to the [w
 - Next Steps
 - Thank you
   - Easter Eggs
-  - [Code for easter eggs](https://github.com/MarsGoatz/ReactVanEasterEgg)
+  - [Code for easter eggs](https://github.com/MarsGoatz/CobraChickenEasterEgg)
